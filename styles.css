@@ -1,0 +1,41 @@
+
+body {
+	color: rgb(9, 9, 71);
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   }
+
+.title {
+	text-align: center;
+}
+
+.sel3a {
+	display: inline-block;
+	margin: 5px;
+}
+
+
+.iPhoneImage {
+	   width: 380px;
+	   height: 500px;
+}
+
+   
+#basketImage {
+	width: 30px;
+	height: 30px;
+	position: absolute;
+	right: 16px;
+	top: 16px;
+}
+   
+#itemCounter {
+	position: absolute;
+	right: 56px;
+	top: 0px;
+}
+   
+   
+#orderTotal {
+	margin-right: 16px;
+	text-align: right;
+   }    
